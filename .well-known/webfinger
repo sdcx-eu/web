@@ -1,6 +1,6 @@
 
 {
-  "subject": "acct:thorbjorn@sdcx.eu",
+  "subject": "acct:tailscale@sdcx.eu",
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
