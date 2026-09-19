@@ -1,1 +1,10 @@
 
+{
+  "subject": "acct:thorbjorn@sdcx.eu",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://dev-72eukvi5ww5fasvu.eu.auth0.com/"
+    }
+  ]
+}
